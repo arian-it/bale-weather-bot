@@ -26,7 +26,7 @@ The bot provides current weather information for Iranian cities using the free *
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+https://github.com/arian-it/bale-weather-bot.git
 ```
 
 Install dependencies:
