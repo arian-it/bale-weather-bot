@@ -38,7 +38,7 @@ pip install -r requirements.txt
 Run the bot:
 
 ```bash
-python main.py
+python weather-bot.py
 ```
 
 ## Configuration
